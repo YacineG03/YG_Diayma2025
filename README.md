@@ -83,6 +83,7 @@ Action : Configuration = configuration;
 → Stocke la configuration (appsettings.json, variables d’environnement…) dans le champ privé.
 
 Flux 1
+
 <img width="901" height="486" alt="image" src="https://github.com/user-attachments/assets/4e38e12e-c5ef-4872-a590-4c2087d76793" />
 
 
@@ -95,6 +96,7 @@ Ligne : autour de 25–35 (selon ton code)
 → Enregistrement des services dans le conteneur DI (DbContext, repositories, etc.).
 
 Flux 2
+
 <img width="898" height="478" alt="image" src="https://github.com/user-attachments/assets/154672a1-0b1c-4013-bc6c-bd0cb80b7458" />
 
 Avec F11
@@ -105,6 +107,7 @@ Méthode : Configure(IApplicationBuilder app, IHostingEnvironment env)
 → Configuration du pipeline middleware (UseStaticFiles, UseMvc, etc.).
 
 Flux 3
+
 <img width="897" height="480" alt="image" src="https://github.com/user-attachments/assets/f5725747-ba15-46c8-b108-e0e4f143e0b2" />
 
 
@@ -121,6 +124,7 @@ Classe : ProductController
 Méthode : ProductController()
 Ligne : 15
 → Récupère la liste des produits depuis le repository et renvoie la vue avec les produits.
+
 <img width="899" height="480" alt="image" src="https://github.com/user-attachments/assets/7560cc5c-7c65-4097-b963-e5aa3f1d926b" />
 
 Mode utilisé :
@@ -131,6 +135,7 @@ F11 (Pas à pas détaillé) uniquement quand je voulais entrer dans une méthode
 ### 6. Déployez votre solution sous forme d’exécutable Windows.
 La solution a été déployée via dotnet publish -c Release -r win-x64 --self-contained false.
 L'exécutable est disponible dans bin/Release/netcoreapp2.0/win-x64/publish/Diayma.exe.
+
 <img width="903" height="490" alt="image" src="https://github.com/user-attachments/assets/4826314b-bd47-4dd1-b81f-da8336350824" />
 
 ### 7. Fournir un lien drive Google, Onedrive etc. à l’exécutable ci-dessus.
