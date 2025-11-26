@@ -46,8 +46,8 @@ Les breakpoints ont été placés comme suit :
 **a) CartSummaryViewComponent.cs, ligne 10**
 Breakpoint a
 
-<img width="899" height="251" alt="image" src="https://github.com/user-attachments/assets/164aa9d5-94ca-4bb1-a1ee-1f57cf06903f" />
-<img width="904" height="177" alt="image" src="https://github.com/user-attachments/assets/a7d8e558-e272-417e-92f2-6266975e5778" />
+<img width="902" height="224" alt="image" src="https://github.com/user-attachments/assets/91a99cdc-4b3e-45a6-abfd-f66b294432e4" />
+
 
 **b) ProductController.cs, ligne 15** 
 Breakpoint b
@@ -65,6 +65,7 @@ Breakpoint d
 <img width="906" height="185" alt="image" src="https://github.com/user-attachments/assets/ff82e73c-12d6-4ff7-8027-3ca503e5ca5f" />
 
 **e) Startup.cs, ligne 20**
+
 <img width="900" height="485" alt="image" src="https://github.com/user-attachments/assets/a8f624d6-0d94-4636-845e-76bef110e84e" />
 
 ### 5. (Deuxième) Quels sont les namespaces, classes et méthodes visités avant l’affichage des produits sur l’écran d’accueil de votre navigateur ?
