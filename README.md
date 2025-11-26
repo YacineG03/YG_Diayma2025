@@ -1,5 +1,6 @@
 # TD .NET – Visual Studio, Débogage & GitHub
-##Réponses aux Tâches
+
+## Réponses aux Tâches
 
 ### 1. Récupérez dans Visual Studio et exécutez le code fourni lien Github. Fermez la fenêtre d’avertissements ⚠ affichée.
 (Non détaillé dans ce README, mais le code a été cloné et exécuté avec succès. La fenêtre d'avertissement a été fermée comme indiqué.)
@@ -41,25 +42,29 @@ Bug Panier:
 ### 7. Placez un point d’arrêt sur les lignes suivantes du code
 
 Les breakpoints ont été placés comme suit :
-a) CartSummaryViewComponent.cs, ligne 10
+
+**a) CartSummaryViewComponent.cs, ligne 10**
 Breakpoint a
 
 <img width="899" height="251" alt="image" src="https://github.com/user-attachments/assets/164aa9d5-94ca-4bb1-a1ee-1f57cf06903f" />
 <img width="904" height="177" alt="image" src="https://github.com/user-attachments/assets/a7d8e558-e272-417e-92f2-6266975e5778" />
 
-b) ProductController.cs, ligne 15 
+**b) ProductController.cs, ligne 15** 
 Breakpoint b
+
 <img width="901" height="480" alt="image" src="https://github.com/user-attachments/assets/a32c0cdb-a450-4900-a130-ef12761d9bfa" />
 
-c) OrderController.cs, ligne 17 
+**c) OrderController.cs, ligne 17**
+
 Breakpoint c
 <img width="906" height="484" alt="image" src="https://github.com/user-attachments/assets/c64480c8-3583-41b6-9d33-32f43c97d005" />
 
-d) CartController.cs, ligne 15
+**d) CartController.cs, ligne 15**
+
 Breakpoint d
 <img width="906" height="185" alt="image" src="https://github.com/user-attachments/assets/ff82e73c-12d6-4ff7-8027-3ca503e5ca5f" />
 
-e) Startup.cs, ligne 20
+**e) Startup.cs, ligne 20**
 <img width="900" height="485" alt="image" src="https://github.com/user-attachments/assets/a8f624d6-0d94-4636-845e-76bef110e84e" />
 
 ### 5. (Deuxième) Quels sont les namespaces, classes et méthodes visités avant l’affichage des produits sur l’écran d’accueil de votre navigateur ?
