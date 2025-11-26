@@ -1,10 +1,10 @@
 # TD .NET – Visual Studio, Débogage & GitHub
 ##Réponses aux Tâches
 
-###1. Récupérez dans Visual Studio et exécutez le code fourni lien Github. Fermez la fenêtre d’avertissements ⚠ affichée.
+### 1. Récupérez dans Visual Studio et exécutez le code fourni lien Github. Fermez la fenêtre d’avertissements ⚠ affichée.
 (Non détaillé dans ce README, mais le code a été cloné et exécuté avec succès. La fenêtre d'avertissement a été fermée comme indiqué.)
 
-###2. Quels sont les projets de la solution ?
+### 2. Quels sont les projets de la solution ?
 Le projet de la solution est « Diayma » et est composé d’un seul projet :
 
 Diayma → Projet ASP.NET Core Web Application (.NET Core App 2.0 dans ce cas précis, voir question 3).
